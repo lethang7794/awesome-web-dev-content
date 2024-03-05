@@ -17,6 +17,7 @@ your frontend architecture skills
 ## Backend:
 
 - [Alex Edwards](https://www.alexedwards.net/blog): Go
+- [byteSizeGo](https://www.bytesizego.com/): Go
 
 ## Cloud
 
