@@ -14,7 +14,8 @@ your frontend architecture skills
 - [Lydia Hallie](https://www.lydiahallie.io/): Web Dev
 - [Total TypeScript](https://www.totaltypescript.com/articles) (Matt Pocock): TypeScript, React
 - [TkDodo](https://tkdodo.eu/blog/) (Dominik): React, TypeScript, React Query
-- [Mark's Dev Blog](https://blog.isquaredsoftware.com/) (Mark "acemarke" Erikson): React, Redux 
+- [Mark's Dev Blog](https://blog.isquaredsoftware.com/) (Mark "acemarke" Erikson): React, Redux
+- [Build UI](https://buildui.com/posts) + [Receipts](https://buildui.com/recipes): React, Framer Motion
 
 ## Backend:
 
