@@ -1,8 +1,8 @@
-# awesome-web-dev-blogs
+# Awesome Web Dev Content
 
 ## Blogs
 
-### Frontend:
+### Frontend
 
 - [fettblog.eu](https://fettblog.eu/) (Stefan Baumgartner): TypeScript, JavaScript, Rust
 - [RWieruch](https://www.robinwieruch.de/blog/): Web Dev
@@ -19,7 +19,7 @@ your frontend architecture skills
 - [Mark's Dev Blog](https://blog.isquaredsoftware.com/) (Mark "acemarke" Erikson): React, Redux
 - [Build UI](https://buildui.com/posts) + [Receipts](https://buildui.com/recipes): React, Framer Motion
 
-### Backend:
+### Backend
 
 - [Ardan Labs Blog](https://www.ardanlabs.com/blog/): Go, Docker, Kubernetes, DevOps
 - [Alex Edwards](https://www.alexedwards.net/blog): Go
@@ -44,4 +44,12 @@ your frontend architecture skills
 - [Frontend First](https://www.frontendfirst.fm/): Modern UI development on the web
 - [Syntax FM](https://syntax.fm/): A Tasty Treats Podcast for Web Developers
 - [Go Time](https://changelog.com/gotime): Go
-- [Ardan Labs Podcast](https://ardanlabs.buzzsprout.com/): Go, Programming 
+- [Ardan Labs Podcast](https://ardanlabs.buzzsprout.com/): Go, Programming
+
+## Youtube channel
+
+- [Honeypot](https://www.youtube.com/@Honeypotio/videos): Documentaries exploring tech culture, influential technologies
+- [ui.dev](https://www.youtube.com/@uidotdev/video): Stories of the JavaScript ecosystems
+- [Sam Selikoff](https://www.youtube.com/@samselikoff/videos): Quality videos on frontend development
+- [Developer Way](https://www.youtube.com/@developerwaypatterns/videos): Advanced patterns for Frontend developers
+- [Matt Pocock](https://www.youtube.com/@mattpocockuk/videos): TypeScript wizard
