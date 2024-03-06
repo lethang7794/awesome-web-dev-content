@@ -1,6 +1,8 @@
 # awesome-web-dev-blogs
 
-## Frontend:
+## Blogs
+
+### Frontend:
 
 - [fettblog.eu](https://fettblog.eu/) (Stefan Baumgartner): TypeScript, JavaScript, Rust
 - [RWieruch](https://www.robinwieruch.de/blog/): Web Dev
@@ -17,21 +19,29 @@ your frontend architecture skills
 - [Mark's Dev Blog](https://blog.isquaredsoftware.com/) (Mark "acemarke" Erikson): React, Redux
 - [Build UI](https://buildui.com/posts) + [Receipts](https://buildui.com/recipes): React, Framer Motion
 
-## Backend:
+### Backend:
 
+- [Ardan Labs Blog](https://www.ardanlabs.com/blog/): Go, Docker, Kubernetes, DevOps
 - [Alex Edwards](https://www.alexedwards.net/blog): Go
 - [byteSizeGo](https://www.bytesizego.com/): Go
 
-## Cloud
+### Cloud
 
 - [AWS Fundamentals](https://blog.awsfundamentals.com/) (Tobias Schmidt, Sandro Volpicella): AWS, Cloud
 
-## Programming
+### Programming
 
 - [Julia Evans](https://jvns.ca/)
 
-## Newletter
+## Newletters
 
 - [JavaScript Weekly](https://javascriptweekly.com/latest): Articles/Tutorials, Code/Tools
 - [This Week in React](https://thisweekinreact.com/newsletter): React, React Native, JavaScript
 - [Bytes ui.dev](https://bytes.dev/archives): Weekly dose of JavaScript (entertainment)
+
+## Podcasts
+
+- [Frontend First](https://www.frontendfirst.fm/): Modern UI development on the web
+- [Syntax FM](https://syntax.fm/): A Tasty Treats Podcast for Web Developers
+- [Go Time](https://changelog.com/gotime): Go
+- [Ardan Labs Podcast](https://ardanlabs.buzzsprout.com/): Go, Programming 
