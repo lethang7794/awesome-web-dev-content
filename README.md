@@ -13,6 +13,7 @@ your frontend architecture skills
 - [Epic Web](https://www.epicweb.dev/articles) (Kent C. Dodds): Web Dev, Testing
 - [Lydia Hallie](https://www.lydiahallie.io/): Web Dev
 - [Total TypeScript](https://www.totaltypescript.com/articles) (Matt Pocock): TypeScript, React
+- [TkDodo](https://tkdodo.eu/blog/) (Dominik): React, TypeScript, React Query
 
 ## Backend:
 
