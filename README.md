@@ -46,10 +46,40 @@ your frontend architecture skills
 - [Go Time](https://changelog.com/gotime): Go
 - [Ardan Labs Podcast](https://ardanlabs.buzzsprout.com/): Go, Programming
 
-## Youtube channel
+## Youtube Channels
 
 - [Honeypot](https://www.youtube.com/@Honeypotio/videos): Documentaries exploring tech culture, influential technologies
 - [ui.dev](https://www.youtube.com/@uidotdev/video): Stories of the JavaScript ecosystems
 - [Sam Selikoff](https://www.youtube.com/@samselikoff/videos): Quality videos on frontend development
 - [Developer Way](https://www.youtube.com/@developerwaypatterns/videos): Advanced patterns for Frontend developers
 - [Matt Pocock](https://www.youtube.com/@mattpocockuk/videos): TypeScript wizard
+
+## Illustrations (Comics, Books, Videos)
+
+- [Phippy & Friends](https://www.cncf.io/phippy/) (CNCF): Phippy is a simple _PHP app_, exploring the **_cloud native_ world** with her friends.
+  - The Illustrated Children’s Guide to Kubernetes
+  - Phippy Goes to the Zoo
+  - Admiral Bash’s Island Adventure
+  - From 00-K8s with Love
+  - Phippy and Zee go to the Mountains: A Prometheus Story
+  - Phippy In Space: Adventures in Cloud-Native Recovery
+  - Phippy’s Quest for Cloud Native Transformation
+
+
+- [Smooth sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) (Google Cloud | Kubernetes comic): Deploy code faster with CI/CD and Kubernetes
+
+- [Comics - DNSSimple](https://dnsimple.com/comics): Learn how DNS and HTTPS work
+  - How DNS works
+  - How HTTPS works
+  - How DNSSEC works
+  - The true story of trusty
+
+### Books
+
+- The Read Aloud Cloud: An Innocent's Guide to the Tech Inside: [Amazon](https://www.amazon.com/Read-Aloud-Cloud-Innocents-Inside/dp/1119677629)
+
+- Visualizing Google Cloud: 101 Illustrated References for Cloud Engineers and Architects: [Amazon](https://www.amazon.com/Visualizing-Google-Cloud-Illustrated-References/dp/1119816327)
+
+- Gently Down the Stream: A Gentle Introduction to Apache Kafka: [Amazon](https://www.amazon.com/Gently-Down-Stream-Gentle-Introduction-ebook/dp/B0973CRP6M), [Read For Free](https://www.gentlydownthe.stream/)
+
+- A Gentle Introduction to OpenSearch: [Amazon](https://www.amazon.com/Gentle-Introduction-OpenSearch-Mitch-Seymour/dp/1737419092), [Read For Free](https://opensearch.roundrobin.pub/)
