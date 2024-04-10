@@ -8,8 +8,7 @@
 - [RWieruch](https://www.robinwieruch.de/blog/): Web Dev
 - [Josh W Comeau](https://www.joshwcomeau.com/): React, CSS
 - [Developer Way](https://www.developerway.com/) (Nadia Makarevich): Advanced patterns for Frontend developers.
-- [Frontend at Scale](https://frontendatscale.com/#archive) (Maxi Ferreira): Level up
-your frontend architecture skills
+- [Frontend at Scale](https://frontendatscale.com/#archive) (Maxi Ferreira): Level up your frontend architecture skills
 - [Ahmad Shadeed](https://ishadeed.com/): CSS
 - [Kent C. Dodds](https://kentcdodds.com/blog): React, JavaScript
 - [Epic Web](https://www.epicweb.dev/articles) (Kent C. Dodds): Web Dev, Testing
@@ -18,6 +17,9 @@ your frontend architecture skills
 - [TkDodo](https://tkdodo.eu/blog/) (Dominik): React, TypeScript, React Query
 - [Mark's Dev Blog](https://blog.isquaredsoftware.com/) (Mark "acemarke" Erikson): React, Redux
 - [Build UI](https://buildui.com/posts) + [Receipts](https://buildui.com/recipes): React, Framer Motion
+- [Josh Collinsworth](https://joshcollinsworth.com/blog): Frontend, CSS, React
+- [Unicorn Utterances](https://unicorn-utterances.com/): Programming, Web Dev...
+- [Anthony Fu](https://antfu.me/posts): Vite, Vue, Open-Source...
 
 ### Backend
 
@@ -33,7 +35,11 @@ your frontend architecture skills
 
 - [Julia Evans](https://jvns.ca/)
 
-## Newletters
+## Books
+
+- [The Framework Field Guide](https://unicorn-utterances.com/collections/framework-field-guide): A free and practical way to learn Angular, React & Vue all at once
+
+## Newsletters
 
 - [JavaScript Weekly](https://javascriptweekly.com/latest): Articles/Tutorials, Code/Tools
 - [This Week in React](https://thisweekinreact.com/newsletter): React, React Native, JavaScript
@@ -57,6 +63,7 @@ your frontend architecture skills
 ## Illustrations (Comics, Books, Videos)
 
 - [Phippy & Friends](https://www.cncf.io/phippy/) (CNCF): Phippy is a simple _PHP app_, exploring the **_cloud native_ world** with her friends.
+
   - The Illustrated Children’s Guide to Kubernetes
   - Phippy Goes to the Zoo
   - Admiral Bash’s Island Adventure
@@ -64,7 +71,6 @@ your frontend architecture skills
   - Phippy and Zee go to the Mountains: A Prometheus Story
   - Phippy In Space: Adventures in Cloud-Native Recovery
   - Phippy’s Quest for Cloud Native Transformation
-
 
 - [Smooth sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) (Google Cloud | Kubernetes comic): Deploy code faster with CI/CD and Kubernetes
 
