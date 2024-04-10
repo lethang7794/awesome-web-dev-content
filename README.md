@@ -20,6 +20,7 @@
 - [Josh Collinsworth](https://joshcollinsworth.com/blog): Frontend, CSS, React
 - [Unicorn Utterances](https://unicorn-utterances.com/): Programming, Web Dev...
 - [Anthony Fu](https://antfu.me/posts): Vite, Vue, Open-Source...
+- [Brad Frost](https://bradfrost.com/blog/): Design System
 
 ### Backend
 
@@ -35,10 +36,6 @@
 
 - [Julia Evans](https://jvns.ca/)
 
-## Books
-
-- [The Framework Field Guide](https://unicorn-utterances.com/collections/framework-field-guide): A free and practical way to learn Angular, React & Vue all at once
-
 ## Newsletters
 
 - [JavaScript Weekly](https://javascriptweekly.com/latest): Articles/Tutorials, Code/Tools
@@ -51,6 +48,7 @@
 - [Syntax FM](https://syntax.fm/): A Tasty Treats Podcast for Web Developers
 - [Go Time](https://changelog.com/gotime): Go
 - [Ardan Labs Podcast](https://ardanlabs.buzzsprout.com/): Go, Programming
+- [The CSS Podcast](https://pod.link/thecsspodcast/): CSS
 
 ## Youtube Channels
 
@@ -89,3 +87,24 @@
 - Gently Down the Stream: A Gentle Introduction to Apache Kafka: [Amazon](https://www.amazon.com/Gently-Down-Stream-Gentle-Introduction-ebook/dp/B0973CRP6M), [Read For Free](https://www.gentlydownthe.stream/)
 
 - A Gentle Introduction to OpenSearch: [Amazon](https://www.amazon.com/Gentle-Introduction-OpenSearch-Mitch-Seymour/dp/1737419092), [Read For Free](https://opensearch.roundrobin.pub/)
+
+## Free Books - Courses
+
+- [The Framework Field Guide](https://unicorn-utterances.com/collections/framework-field-guide): A free and practical way to learn Angular, React & Vue all at once
+- [web.dev's Courses](https://web.dev/learn): Learn web development courses from Chrome team
+
+  - [Learn Privacy](https://web.dev/learn/privacy)
+  - [Learn Accessibility](https://web.dev/learn/accessibility)
+  - [Learn HTML](https://web.dev/learn/html)
+  - [Learn Images](https://web.dev/learn/images)
+  - [Learn Responsive Design](https://web.dev/learn/design)
+  - [Learn Forms](https://web.dev/learn/forms)
+  - [Learn PWA](https://web.dev/learn/pwa)
+  - [Learn CSS](https://web.dev/learn/css)
+  - [Learn Performance](https://web.dev/learn/performance)
+  - [Learn Testing](https://web.dev/learn/testing)
+  - [Learn Javascript](https://web.dev/learn/javascript)
+
+- [Planet Scale's Courses](https://planetscale.com/learn/courses):
+  - [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers/introduction/course-introduction): Start your journey to becoming a MySQL expert.
+  - [Database Scaling](https://planetscale.com/learn/courses/database-scaling/introduction/course-introduction): Everything you need to know to scale databases to meet huge demand!
