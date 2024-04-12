@@ -80,13 +80,15 @@
 
 ### Books
 
-- The Read Aloud Cloud: An Innocent's Guide to the Tech Inside: [Amazon](https://www.amazon.com/Read-Aloud-Cloud-Innocents-Inside/dp/1119677629)
+- The Read Aloud **Cloud**: An Innocent's Guide to the Tech Inside: [Amazon](https://www.amazon.com/Read-Aloud-Cloud-Innocents-Inside/dp/1119677629)
 
-- Visualizing Google Cloud: 101 Illustrated References for Cloud Engineers and Architects: [Amazon](https://www.amazon.com/Visualizing-Google-Cloud-Illustrated-References/dp/1119816327)
+- The Illustrated **AWS Cloud**: A Guide to Help You on Your Cloud Practitioner Journey: [The Book Website](https://illustratedaws.cloud/)
 
-- Gently Down the Stream: A Gentle Introduction to Apache Kafka: [Amazon](https://www.amazon.com/Gently-Down-Stream-Gentle-Introduction-ebook/dp/B0973CRP6M), [Read For Free](https://www.gentlydownthe.stream/)
+- Visualizing **Google Cloud**: 101 Illustrated References for Cloud Engineers and Architects: [Amazon](https://www.amazon.com/Visualizing-Google-Cloud-Illustrated-References/dp/1119816327)
 
-- A Gentle Introduction to OpenSearch: [Amazon](https://www.amazon.com/Gentle-Introduction-OpenSearch-Mitch-Seymour/dp/1737419092), [Read For Free](https://opensearch.roundrobin.pub/)
+- Gently Down the Stream: A Gentle Introduction to Apache **Kafka**: [Amazon](https://www.amazon.com/Gently-Down-Stream-Gentle-Introduction-ebook/dp/B0973CRP6M), [Read For Free](https://www.gentlydownthe.stream/)
+
+- A Gentle Introduction to **OpenSearch**: [Amazon](https://www.amazon.com/Gentle-Introduction-OpenSearch-Mitch-Seymour/dp/1737419092), [Read For Free](https://opensearch.roundrobin.pub/)
 
 ## Free Books - Courses
 
