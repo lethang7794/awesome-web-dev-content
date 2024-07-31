@@ -34,6 +34,7 @@
 
 ### Programming
 
+- [Coding Horror](https://blog.codinghorror.com/) a blog by Jeff Atwood[^1] on programming and human factors.
 - [Julia Evans](https://jvns.ca/)
 
 ## Newsletters
@@ -110,3 +111,5 @@
 - [Planet Scale's Courses](https://planetscale.com/learn/courses):
   - [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers/introduction/course-introduction): Start your journey to becoming a MySQL expert.
   - [Database Scaling](https://planetscale.com/learn/courses/database-scaling/introduction/course-introduction): Everything you need to know to scale databases to meet huge demand!
+
+[^1]: Jeff Atwood co-founded the question-and-answer network Stack Exchange, which contains the Stack Overflow.
