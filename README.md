@@ -37,6 +37,10 @@
 - [Coding Horror](https://blog.codinghorror.com/) a blog by Jeff Atwood[^1] on programming and human factors.
 - [Julia Evans](https://jvns.ca/)
 
+### Architect
+
+- [The Architect Elevator](https://architectelevator.com/blog/): Journeys of architecture, strategy, cloud, transformation.
+
 ## Newsletters
 
 - [JavaScript Weekly](https://javascriptweekly.com/latest): Articles/Tutorials, Code/Tools
