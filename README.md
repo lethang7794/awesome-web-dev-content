@@ -27,6 +27,7 @@
 - [Ardan Labs Blog](https://www.ardanlabs.com/blog/): Go, Docker, Kubernetes, DevOps
 - [Alex Edwards](https://www.alexedwards.net/blog): Go
 - [byteSizeGo](https://www.bytesizego.com/): Go
+- [Anton Zhiyanov](https://antonz.org/all/): Go, SQLite...
 
 ### Cloud
 
