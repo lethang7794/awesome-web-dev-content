@@ -33,6 +33,10 @@
 
 - [AWS Fundamentals](https://blog.awsfundamentals.com/) (Tobias Schmidt, Sandro Volpicella): AWS, Cloud
 
+### DevOps
+
+- [iximiuz](https://iximiuz.com) (Ivan Velichko): Container, Kubernetes
+
 ### Programming
 
 - [Coding Horror](https://blog.codinghorror.com/) a blog by Jeff Atwood[^1] on programming and human factors.
