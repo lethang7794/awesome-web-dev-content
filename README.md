@@ -88,6 +88,8 @@
   - How DNSSEC works
   - The true story of trusty
 
+- [Raft - Understandable Distributed Consensus | The Secret Lives of Data](https://thesecretlivesofdata.com/raft/)
+
 ### Books
 
 - The Read Aloud **Cloud**: An Innocent's Guide to the Tech Inside: [Amazon](https://www.amazon.com/Read-Aloud-Cloud-Innocents-Inside/dp/1119677629)
