@@ -60,6 +60,12 @@
 - [Ardan Labs Podcast](https://ardanlabs.buzzsprout.com/): Go, Programming
 - [The CSS Podcast](https://pod.link/thecsspodcast/): CSS
 
+## Learning Center
+
+- [CloudFlare](https://www.cloudflare.com/learning/): Resources on cyber security and how the Internet works
+- [Nord Security](https://nordlayer.com/learn/): Most common terms and topics in the cybersecurity industry
+- [PlanetScale](https://planetscale.com/learn): Free courses, articles, and videos to practice your database management and MySQL skills.
+
 ## Youtube Channels
 
 - [Honeypot](https://www.youtube.com/@Honeypotio/videos): Documentaries exploring tech culture, influential technologies
@@ -83,6 +89,7 @@
 - [Smooth sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) (Google Cloud | Kubernetes comic): Deploy code faster with CI/CD and Kubernetes
 
 - [Comics - DNSSimple](https://dnsimple.com/comics): Learn how DNS and HTTPS work
+
   - How DNS works
   - How HTTPS works
   - How DNSSEC works
