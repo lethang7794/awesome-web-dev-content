@@ -32,6 +32,7 @@
 ### Cloud
 
 - [AWS Fundamentals](https://blog.awsfundamentals.com/) (Tobias Schmidt, Sandro Volpicella): AWS, Cloud
+- [Alex DeBrie](https://www.alexdebrie.com/posts): DynamoDB, serverless, cloud-native
 
 ### DevOps
 
