@@ -12,7 +12,7 @@
 - [Ahmad Shadeed](https://ishadeed.com/): CSS
 - [Kent C. Dodds](https://kentcdodds.com/blog): React, JavaScript
 - [Epic Web](https://www.epicweb.dev/articles) (Kent C. Dodds): Web Dev, Testing
-- [Lydia Hallie](https://www.lydiahallie.io/): Web Dev
+- [Lydia Hallie](https://www.lydiahallie.com/): Web Dev
 - [Total TypeScript](https://www.totaltypescript.com/articles) (Matt Pocock): TypeScript, React
 - [TkDodo](https://tkdodo.eu/blog/) (Dominik): React, TypeScript, React Query
 - [Mark's Dev Blog](https://blog.isquaredsoftware.com/) (Mark "acemarke" Erikson): React, Redux
